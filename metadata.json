@@ -1,0 +1,6 @@
+{
+  "name": "Hassala",
+  "description": "Digital money circles (ROSCA) fintech app with modern circular dashboard, member tracking, and payout timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
